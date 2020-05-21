@@ -1,0 +1,3 @@
+name: Jacob Wiltshire
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
